@@ -14,3 +14,6 @@
 - 😍
 - 😊
 - 😒
+
+
+[CLI command](Docs/cli.md)
